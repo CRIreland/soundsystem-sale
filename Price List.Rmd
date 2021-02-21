@@ -8,19 +8,13 @@ output:
 
 ## Price List
 
-Just gauging interest at the moment - the following will become available after Christmas. 
+Please Email me at caspian.ireland@gmail.com or use facebook messenger, as I may not check all post comments
 
 Collection only from Sheffield. 
-
-Email caspian.ireland@gmail.com if you'd like to put your name down for anything and I'll get in touch after christmas once available. 
-
-Will consider offers on job lot.
-
 
 ```{r, echo=FALSE,out.width="49%", out.height="20%",fig.show='hold',fig.align='center'}
 knitr::include_graphics(c("../images/FullSound2-min.jpeg","../images/fullamprack-min.jpg"))
 ``` 
-
 
 
 ## Cabinets and Drivers
@@ -59,6 +53,8 @@ No beating around the bush, these have had a tough life and are due some TLC. St
   3. Drivers - £700. 
   
   Prices are for 4. Will consider splitting.
+  
+NOTE - currently got interest in 2 loaded so looking for another buyer for the other pair (£500 loaded)
 
 #### {.tabset}
 
@@ -74,7 +70,7 @@ No beating around the bush, these have had a tough life and are due some TLC. St
 
 ![](../images/LigwaEath3-min.jpg)
 
-### ES18's (Fane 18B)
+### ES18's (Fane 18B) SOLD
 
 4 x ES18's, 18mm birch ply, fully rebated solid builds with castors. Loaded with Fane 18B. 
 
@@ -161,7 +157,7 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
  
 £800
 
-### Matrix XP3000H
+### Matrix XP3000H (Reserved)
  
   Branded as quantum audio. 
   
@@ -170,15 +166,15 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
  
 £300
  
-### Matrix 2UA1500
+### Matrix 2UA1500  (Reserved)
   
   
     * Output (8Ω)	2 x 475
     * Output (4Ω)	2 x 750
   
-2 available - £120 each
+2 available - £120 each (both reserved)
   
-### t.amp TA1400
+### t.amp TA1400  (Reserved)
  
  Front knobs missing, pots work fine
  
