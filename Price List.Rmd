@@ -148,6 +148,8 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
     
 £1100
 
+[Pics](#amppics)
+
 ### Matrix XT7000MF
  
   Class AB amplifier for bass duty:
@@ -157,6 +159,8 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
  
 £800
 
+[Pics](#amppics)
+
 ### Matrix XP3000H (Reserved)
  
   Branded as quantum audio. 
@@ -165,6 +169,8 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
     * Output (4Ω)	2 x 1500
  
 £300
+
+[Pics](#amppics)
  
 ### Matrix 2UA1500  (Reserved)
   
@@ -173,6 +179,8 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
     * Output (4Ω)	2 x 750
   
 2 available - £120 each (both reserved)
+
+[Pics](#amppics)
   
 ### t.amp TA1400  (Reserved)
  
@@ -182,6 +190,8 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
     * Output (4Ω)	2 x 850
     
 £100
+
+[Pics](#amppics)
  
 ### t.amp D4-500
  
@@ -193,9 +203,11 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
  
 £200
 
+[Pics](#amppics)
+
 ### Pictures {.tabset}
 
-#### Image 1
+#### Image 1 {#amppics}
 
 ![](../images/inf8-min.jpeg)
 
