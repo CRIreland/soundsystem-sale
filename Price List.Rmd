@@ -20,7 +20,7 @@ knitr::include_graphics(c("../images/FullSound2-min.jpeg","../images/fullamprack
 ## Cabinets and Drivers
 
 
-### Turbosound Floodlights (SOLD pending payment)
+### Turbosound Floodlights (SOLD)
 
 Really crisp classic midtops from Turbosound!
 
@@ -42,7 +42,7 @@ Can throw in some DIY adjustable angle tilt boards I made for them too if wanted
 
 
 
-### Ligwa Earthshakers (Void V18-1000) (SOLD pending payment)
+### Ligwa Earthshakers (Void V18-1000) (SOLD)
 
 4 x MDF Ligwa Earthshaker Scoops, loaded with V18-1000 drivers from Void.
 
@@ -54,8 +54,6 @@ No beating around the bush, these have had a tough life and are due some TLC. St
   
   Prices are for 4. Will consider splitting.
   
-NOTE - currently got interest in 2 loaded so looking for another buyer for the other pair (£500 loaded)
-
 #### {.tabset}
 
 ##### Image 1
@@ -70,7 +68,7 @@ NOTE - currently got interest in 2 loaded so looking for another buyer for the o
 
 ![](../images/LigwaEath3-min.jpg)
 
-### ES18's (Fane 18B) SOLD
+### ES18's (Fane 18B) (SOLD)
 
 4 x ES18's, 18mm birch ply, fully rebated solid builds with castors. Loaded with Fane 18B. 
 
@@ -161,7 +159,7 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
 
 [Pics](#amppics)
 
-### Matrix XP3000H (Reserved)
+### Matrix XP3000H
  
   Branded as quantum audio. 
   
