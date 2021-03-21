@@ -101,7 +101,7 @@ Prices are for 4. Will consider splitting.
 
 ### Zeck Midtops
 
-Little midtops manufactured by Zeck (yup I've never heard of Zeck either...) loaded with JBL 15" and b&c de25 compression drivers. I'm really sad to see these go, they sound amazing, though they do currently look like shite with the green grills. I've labelled them as midtops becuase they don't handle bass very well, but they'd be fine on full range as monitors or infill or something. 
+Little midtops manufactured by Zeck (yup I've never heard of Zeck either...) loaded with JBL 12" and b&c de25 compression drivers. I'm really sad to see these go, they sound amazing, though could do with a lick of paint. I've labelled them as midtops becuase they don't handle bass very well, but they'd be fine on full range as monitors or infill or something. 
 
 £300 for the pair (no offers). 
 
@@ -109,7 +109,7 @@ Little midtops manufactured by Zeck (yup I've never heard of Zeck either...) loa
 
 ##### Image 1
 
-![](../images/zek-min.jpeg)
+![](../images/zek2.jpg)
 
 ##### Image 2
 
@@ -120,14 +120,15 @@ Little midtops manufactured by Zeck (yup I've never heard of Zeck either...) loa
 
 Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job!
 
- 1. Cabinets - £200
- 2. Drivers - £250
+ 1. Loaded - £400
+ 2. Cabinets - £200
+ 3. Drivers - £250
 
 #### {.tabset}
 
 ##### Image 1
 
-![](../images/rhinos-min.jpg)
+![](../images/rhino3.jpg)
 
 ##### Image 2
 
@@ -170,7 +171,7 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
 
 [Pics](#amppics)
  
-### Matrix 2UA1500  (Reserved)
+### Matrix 2UA1500  (SOLD)
   
   
     * Output (8Ω)	2 x 475
@@ -180,7 +181,7 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
 
 [Pics](#amppics)
   
-### t.amp TA1400  (Reserved)
+### t.amp TA1400  (SOLD)
  
  Front knobs missing, pots work fine
  
@@ -191,7 +192,7 @@ Rhino (mk2) mini scoops. Solid build but could do with some TLC on the paint job
 
 [Pics](#amppics)
  
-### t.amp D4-500
+### t.amp D4-500 (SOLD)
  
   Cheap and cheerful 4 channel digital amplifier
   from Thomann
